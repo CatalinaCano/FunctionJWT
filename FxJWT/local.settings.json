@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SECRET_KEY": "*C0mPu73c*2020$aP1_R1$*",
+    "dbalmacenamiento": "Server=tcp:dbdesarrollocomputec.database.windows.net,1433;Initial Catalog=dbalmacenamiento;Persist Security Info=False;User ID=admindba;Password=C0mputec2019**;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=60;"
+  }
+}
